@@ -1,2 +1,2 @@
 # pokemon-tcg-pocket-filter
-A software with a better filter to search specifiques Pokémon cards on Pokémon TCG Pocket
+Software with a better filter to search for specific Pokémon cards in Pokémon TCG Pocket.
